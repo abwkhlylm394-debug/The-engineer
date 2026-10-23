@@ -1,0 +1,1 @@
+{"name":"the-engineer","version":"0.1.0","private":true,"type":"module","engines":{"node":">=22.5"},"scripts":{"create-admin":"node scripts/create-admin.js","backup":"node scripts/backup.js","start":"node src/server.js","test":"node --test --no-warnings tests/*.test.js"}}

@@ -1,0 +1,23 @@
+﻿✔ public pages render (154.4043ms)
+✔ Arabic language preference sets a safe persistent cookie and renders RTL (33.8243ms)
+✔ unknown service, project and page return 404 (11.2175ms)
+✔ security headers set; health reveals no secrets (7.31ms)
+✔ invalid contact is rejected and not stored (17.1755ms)
+✔ cross-origin and honeypot submissions are blocked (10.6252ms)
+✔ valid contact is persisted; XSS stays escaped (12.6224ms)
+contact_save_failed
+✔ database failure is reported honestly (16.8867ms)
+✔ rate limiting kicks in (39.0768ms)
+✔ assets, logo and favicon are served (10.8804ms)
+✔ responsive stylesheet includes laptop, phone, reduced-motion and contrast support (5.3715ms)
+✔ project category filter works and empty state shows (11.1896ms)
+✔ email outcome is recorded and never overstated (43.9927ms)
+✔ messages and projects persist across restart (69.2586ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 895.41
